@@ -20,3 +20,7 @@ Stemming is the process of reducing words to their root or base form. This is be
 1. Clone the repository:
    ```sh
    git clone https://github.com/Himu336/Fake-News-Prediction_ML.git
+
+## Contributions
+Contributions to improve the code, add features, or fix issues are welcome. Feel free to fork the repository and submit pull requests.
+
